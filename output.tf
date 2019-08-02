@@ -1,3 +1,3 @@
 output "region" {
-    value = ${var.region}
+    value = var.region
 }
